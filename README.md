@@ -28,17 +28,7 @@ También es recomendable ejecutar el notebook en **Jupyter Notebook** o **Google
 3. Ejecuta todas las celdas paso a paso.
 4. Utiliza la función `get_recommendations_25("Nombre de la película")` para obtener sugerencias.
 
-## 📷 Capturas de pantalla
 
-Te recomiendo generar algunas capturas del notebook ya ejecutado y subirlas a una carpeta `/assets` o `/images` en tu repositorio. Aquí una sugerencia de cómo insertarlas:
-
-### Ejemplo de Recomendación
-
-![Recomendaciones](images/recomendaciones.png)
-
-### Visualización de Similitudes
-
-![Gráfica de similitud](images/similitud_plot.png)
 
 ## 👤 Autor
 
@@ -46,4 +36,3 @@ Este proyecto fue desarrollado por:
 
 **Jose Ángel Fosado Animas**
 
-[GitHub](https://github.com/tu-usuario) | [LinkedIn](https://linkedin.com/in/tu-perfil)
